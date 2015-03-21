@@ -1,0 +1,19 @@
+.box{
+
+text-align: center;
+vertical-align:center;
+font-size: 50px;
+}
+
+.row2{
+	border-top-style:solid;
+	border-bottom-style:solid;
+
+
+
+}
+
+#a2,#b2,#c2{
+	border-right-style:solid;
+	border-left-style:solid;
+}
